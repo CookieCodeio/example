@@ -1,1 +1,1 @@
-workshop 
+git example workshop
